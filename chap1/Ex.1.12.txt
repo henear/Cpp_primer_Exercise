@@ -1,0 +1,1 @@
+sum all integer numbers from -100 to 99
